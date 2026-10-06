@@ -1,4 +1,4 @@
-# LOADING THE DATASET
+# LOADING THE REQUIRED LIBRARIES
 library(readr)
 library(ggplot2)
 library(tidyr)
